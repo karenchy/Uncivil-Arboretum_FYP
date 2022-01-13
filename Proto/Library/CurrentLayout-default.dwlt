@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 796
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -563,7 +563,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 1
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -576,18 +576,18 @@ MonoBehaviour:
       y: 21
       width: 654
       height: 356
-    m_Scale: {x: 0.6346399, y: 0.6346399}
-    m_Translation: {x: 327, y: 178.85484}
+    m_Scale: {x: 0.62676054, y: 0.62676054}
+    m_Translation: {x: 327, y: 178}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -515.2528
-      y: -281.82098
-      width: 1030.5056
-      height: 560.948
+      x: -521.73035
+      y: -284
+      width: 1043.4607
+      height: 568
     m_MinimalGUI: 1
   m_defaultScale: 0.62676054
   m_LastWindowPixelSize: {x: 1308, y: 754}

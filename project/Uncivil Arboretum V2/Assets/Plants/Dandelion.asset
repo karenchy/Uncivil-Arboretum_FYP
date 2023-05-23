@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abe186f5cc9242479650034984eebae, type: 3}
+  m_Name: Dandelion
+  m_EditorClassIdentifier: 
+  plantName: Dandelion
+  plantStages:
+  - {fileID: 21300000, guid: 09791e76f8c537d4588d907b3cb85e13, type: 3}
+  - {fileID: 21300000, guid: 734a8bbfb29ae954b9447722028c5e99, type: 3}
+  - {fileID: -4128887083241503271, guid: 97da8deb696045e4198080a9cc8b8914, type: 3}
+  - {fileID: 21300000, guid: a533c8ac7d8b1124d898807e2f8f7480, type: 3}
+  timebtwStages: 4
+  sellPrice: 30
+  icon: {fileID: -4128887083241503271, guid: 97da8deb696045e4198080a9cc8b8914, type: 3}
+  plantFrames:
+  - {fileID: -4128887083241503271, guid: 97da8deb696045e4198080a9cc8b8914, type: 3}
+  - {fileID: 2566547446135029436, guid: 97da8deb696045e4198080a9cc8b8914, type: 3}
+  - {fileID: 4486573774738015679, guid: 97da8deb696045e4198080a9cc8b8914, type: 3}
+  - {fileID: -1543230314793929206, guid: 97da8deb696045e4198080a9cc8b8914, type: 3}
+  - {fileID: -6637862324742602777, guid: 97da8deb696045e4198080a9cc8b8914, type: 3}
+  timebtwFrames: 4
+  harvestNum: 0
